@@ -1,0 +1,18 @@
+
+// BeersList
+"beersList_title" = "Cervezas";
+"beersList_searchPlaceholder" = "Inserta una comida";
+"beersList_cellTitle" = "Nombre: ";
+"beersList_cellSubtitle" = "Creado en: ";
+
+// BeerList Detail
+"tableView_headerTitle" = "Ingredientes";
+
+// Service Error
+"serviceError_timeout" = "Se ha excedido el tiempo al intentar conectarse al servidor";
+"serviceError_internetLost" = "No tienes conexión a internet, compruebalo e inténtalo de nuevo más tarde";
+
+// Common
+"alertTitle_somethingWrong" = "Algo ha salido mal";
+"alertMessage_generic" = "Ha ocurrido un error mientras obteniamos los datos, inténtalo más tarde";
+"tryAgain_alertActionTitle" = "Intentar de nuevo";

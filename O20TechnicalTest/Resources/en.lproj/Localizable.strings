@@ -1,0 +1,18 @@
+
+// BeersList
+"beersList_title" = "Beers";
+"beersList_searchPlaceholder" = "Insert a food";
+"beersList_cellTitle" = "Name: ";
+"beersList_cellSubtitle" = "Created in: ";
+
+// BeerList Detail
+"tableView_headerTitle" = "Ingredients";
+
+// Service Error
+"serviceError_timeout" = "Time exceeded when trying to connect to the server";
+"serviceError_internetLost" = "You don´t have internet connection, check it and try again";
+
+// Common
+"alertTitle_somethingWrong" = "Something Wrong";
+"alertMessage_generic" = "An error has occurred while trying to get the data, please try again";
+"tryAgain_alertActionTitle" = "Try again";
